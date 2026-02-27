@@ -1,0 +1,60 @@
+{
+  "name": "boids-educational-simulation",
+  "version": "1.0.0",
+  "description": "Educational React + TypeScript project: Learn by building a boids flocking simulation with AI guidance. Features particle effects, predator AI, and comprehensive teaching framework.",
+  "type": "module",
+  "keywords": [
+    "react",
+    "typescript",
+    "education",
+    "boids",
+    "flocking-simulation",
+    "canvas-animation",
+    "state-management",
+    "usereducer",
+    "particle-effects",
+    "ai-assisted-learning",
+    "learning-project"
+  ],
+  "author": "Educational Project",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/boids-educational-simulation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/boids-educational-simulation/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/boids-educational-simulation#readme",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:coverage": "vitest --coverage"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.5",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.1",
+    "@vitest/coverage-v8": "^3.2.4",
+    "@vitest/ui": "^3.2.4",
+    "eslint": "^9.39.1",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "globals": "^16.5.0",
+    "jsdom": "^26.1.0",
+    "typescript": "~5.9.3",
+    "typescript-eslint": "^8.46.4",
+    "vite": "^5.4.11",
+    "vitest": "^3.2.4"
+  }
+}
