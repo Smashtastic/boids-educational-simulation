@@ -20,12 +20,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/boids-educational-simulation.git"
+    "url": "https://github.com/smashtastic/boids-educational-simulation.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/boids-educational-simulation/issues"
+    "url": "https://github.com/smashtastic/boids-educational-simulation/issues"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/boids-educational-simulation#readme",
+  "homepage": "https://github.com/smashtastic/boids-educational-simulation#readme",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
